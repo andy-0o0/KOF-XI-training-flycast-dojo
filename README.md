@@ -1,4 +1,4 @@
-# KOF-XI-training-flycast
+# KOF-XI-training-flycast-dojo
 
 Training mode for KOF XI (flycast)
 
