@@ -12,3 +12,11 @@ Currently, there are
 * Infinite and fill health for player 2
 * Player 2 Health information
 
+
+## Instructions
+Add kofxi.lua and kofxitraining folder in the training folder
+
+In flycast-dojo 
+1. Settings -> Advanced
+2. Find lua scripting and put data\training\kofxi.lua
+3. Enjoy training mode 
